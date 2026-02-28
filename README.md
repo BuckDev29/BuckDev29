@@ -28,6 +28,7 @@ Me interesa construir interfaces modernas, aplicaciones interactivas y solucione
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-miranda-8b8845209/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirandacamilo2005@gmail.com) 
+<br>
 📫 Contacto: mirandacamilo2005@gmail.com
 
 # 👨🏻‍💻 Tech Stack:
