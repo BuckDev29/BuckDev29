@@ -19,16 +19,16 @@ I enjoy working across the entire stack, from backend architecture and databases
 
 ### 🚀 What I do
 
-- 🔹 Full Stack Web Development
-- 🔹 Backend Development with Django & Python
-- 🔹 REST API Design & Integrations
-- 🔹 CRM Development
-- 🔹 Real-time Applications (WebSockets & WebRTC)
-- 🔹 VoIP Integrations (Telnyx)
-- 🔹 Process Automation
-- 🔹 Component-based Architecture
-- 🔹 UI/UX Focused Development
-- 🔹 Linux Server Deployment
+-  Full Stack Web Development
+-  Backend Development with Django & Python
+-  REST API Design & Integrations
+-  CRM Development
+-  Real-time Applications (WebSockets & WebRTC)
+-  VoIP Integrations (Telnyx)
+-  Process Automation
+-  Component-based Architecture
+-  UI/UX Focused Development
+-  Linux Server Deployment
 
 ---
 
