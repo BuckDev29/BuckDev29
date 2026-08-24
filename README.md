@@ -24,7 +24,9 @@ I enjoy working across the entire stack, from backend architecture and databases
 -  REST API Design & Integrations
 -  CRM Development
 -  Real-time Applications (WebSockets & WebRTC)
--  VoIP Integrations (Telnyx)
+-  VoIP Integrations (Telnyx & Twilio)
+-  Background Task Processing (Celery & Redis)
+-  PDF & Document Generation (WeasyPrint)
 -  Process Automation
 -  Component-based Architecture
 -  UI/UX Focused Development
@@ -50,6 +52,7 @@ I enjoy working across the entire stack, from backend architecture and databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### Frontend
 
@@ -60,6 +63,12 @@ I enjoy working across the entire stack, from backend architecture and databases
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+### Real-time & Communications
+
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 ### Mobile
 
@@ -76,6 +85,7 @@ I enjoy working across the entire stack, from backend architecture and databases
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
